@@ -33,4 +33,4 @@ INSERT INTO `users` (`id`, `username`, `password`, `fname`, `description`) VALUE
 (1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin', 'All hail the admin!!'),
 (2, 'najoua', '5f4dcc3b5aa765d61d8327deb882cf99', 'lahri', 'This is Najoua'),
 (3, 'meryeme', '9aeaed51f2b0f6680c4ed4b07fb1a83c', 'aitahmedbrahim', 'This is Meryeme'),
-(4, 'paul', '9aeaed51f2b0f6680c4ed4b07fb1a83c', 'girodroux', 'This is Paul'),
+(4, 'paul', '9aeaed51f2b0f6680c4ed4b07fb1a83c', 'girodroux', 'This is Paul');
